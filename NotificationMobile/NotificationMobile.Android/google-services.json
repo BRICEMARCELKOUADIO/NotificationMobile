@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460905346099",
+    "firebase_url": "https://notification-b2700.firebaseio.com",
+    "project_id": "notification-b2700",
+    "storage_bucket": "notification-b2700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460905346099:android:7b86c54ef08417d873df46",
+        "android_client_info": {
+          "package_name": "com.companyname.notificationmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460905346099-hnfc5hjs2sa1f7sd88v1oou7bbt490jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvcDW2vxpeyykbzFaHfKOfaAdwbd1F_Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460905346099-hnfc5hjs2sa1f7sd88v1oou7bbt490jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
